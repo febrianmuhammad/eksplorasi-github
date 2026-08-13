@@ -10,6 +10,3 @@ Istilah Git
 - Branch : cabang bebas dari sebuah commit
 - Merge : menggabungkan branch
 - Remote : sumber yang memiliki repo
-- Clone : mengambil repo dari remote
-- Push : mengirimkan commit ke repo
-- Pull : mengambil commit ke repo
