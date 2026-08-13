@@ -10,3 +10,9 @@ Istilah Git
 - Branch : cabang bebas dari sebuah commit
 - Merge : menggabungkan branch
 - Remote : sumber yang memiliki repo
+
+Branching : 
+- Membuat Git Branch
+- Membuat snapshot tanpa mengganggu master branch
+- Fitur Experimental
+- 2 orang mengerjakan repo yang sama
