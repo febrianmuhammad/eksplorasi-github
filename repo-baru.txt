@@ -16,3 +16,6 @@ Branching :
 - Membuat snapshot tanpa mengganggu master branch
 - Fitur Experimental
 - 2 orang mengerjakan repo yang sama
+
+
+Halo ini adalah hasil dari forking
